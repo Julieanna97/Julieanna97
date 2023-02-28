@@ -1,11 +1,16 @@
 # Profile-readme-template
 
-- :wave: Hello! I’m Julie Anne :purple_heart:
+- :v: Hello! I’m Julie Anne :purple_heart::cherry_blossom:
 - 👀 I’m interested in Software Program
 - 🌱 I’m currently learning Software Developer
 - 💞️ I’m looking to work in Lund by September 2023 with software developers
 - 📫 How to reach me kisamae1997@gmail.com
 - :star: Programming languages I'm familiar with: C, C++, C#, Python, Java
+
+> "Design is not just what it looks like and feels like. Design is how it works" - Steve Jobs
+
+What I'm currently focusing on:
+Currently improving my coding skills: Datastructure, Linked lists, Queues, Stack, Hash table, IoT systems.
 
 <!-- Stats -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Julieanna97&theme=midnight-purple)](https://git.io/streak-stats)
