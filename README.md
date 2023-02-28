@@ -1,6 +1,6 @@
 ![image](https://www.clipartmax.com/png/middle/213-2139337_transparent-gif-kawaii-pixel-bow-transparent.png)
 
-- :v: Hello! I’m Julie Anne :purple_heart::cherry_blossom:
+- :v: Hello! I’m Julie Anne :purple_heart::cherry_blossom: You may call me Julie/Julia
 - 👀 I’m interested in Software Program
 - 🌱 I’m currently learning Software Developer
 - 💞️ I’m looking to work in Lund by September 2023 with software developers
