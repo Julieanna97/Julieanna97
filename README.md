@@ -1,6 +1,6 @@
 # Profile-readme-template
 
-![ribbon](![image](https://www.clipartmax.com/png/middle/213-2139337_transparent-gif-kawaii-pixel-bow-transparent.png)
+![image](https://www.clipartmax.com/png/middle/213-2139337_transparent-gif-kawaii-pixel-bow-transparent.png)
 
 - :v: Hello! I’m Julie Anne :purple_heart::cherry_blossom:
 - 👀 I’m interested in Software Program
