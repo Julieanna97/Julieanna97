@@ -16,7 +16,7 @@ Currently improving my coding skills: Datastructure, Linked lists, Queues, Stack
 
 Currently working on: Vocal voice. I might make cover videos soon, but I'm shy.
 
-I'm always trying to grow and learn something new. I lose track of time when I'm singing, playing piano/guitar, studying languages. I'm not the biggest social person, but once you get to know me, I will never stay quiet. :sweat_smile: I talk a lot and fun to be around with, is what people describe me as.
+I'm always trying to grow and learn something new. I lose track of time when I'm singing, playing piano/guitar, studying languages. I'm not the biggest social person, but once you get to know me, I will never stay quiet. :sweat_smile: I talk a lot, fun to be around with, full of life and passion, crazy and funny, is what people describe me as.
 
 <!-- Stats -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Julieanna97&theme=midnight-purple)](https://git.io/streak-stats)
