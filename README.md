@@ -14,7 +14,7 @@ What I'm currently _focusing_ __on__:
 
 Currently improving my coding skills: Datastructure, Linked lists, Queues, Stack, Hash table, IoT systems.
 
-I'm always trying to grow and learn something new. I lose track of time when I'm singing, playing piano/guitar, studying languages. I'm not the biggest social person, but once you get to know me, I will never stay quiet. :sweat_smile: I talk too much, is what people describe me as.
+I'm always trying to grow and learn something new. I lose track of time when I'm singing, playing piano/guitar, studying languages. I'm not the biggest social person, but once you get to know me, I will never stay quiet. :sweat_smile: I talk a lot and fun to be around with, is what people describe me as.
 
 <!-- Stats -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Julieanna97&theme=midnight-purple)](https://git.io/streak-stats)
