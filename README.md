@@ -1,6 +1,6 @@
 # Profile-readme-template
 
-- :sparkles: Hello, I’m Julie Anne :purple_heart:
+- :wave: Hello, I’m Julie Anne :purple_heart:
 - 👀 I’m interested in Software Program
 - 🌱 I’m currently learning Software Developer
 - 💞️ I’m looking to work in Lund by September 2023 with software developers
