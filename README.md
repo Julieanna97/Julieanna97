@@ -6,8 +6,8 @@
 - 💞️ I’m looking to work in Lund by September 2023 with software developers
 - 📫 How to reach me kisamae1997@gmail.com
 - :star: Programming languages I'm familiar with: C, C++, C#, Python, Java
-- Likes: :microphone::dancer::swimmer::nail_care::musical_keyboard::cat::dog::sunny::snowflake::panda_face::dolphin::cherry_blossom::computer::bowling::surfer::video_game::gem::guitar::lipstick::high_heel::dress::purse::tropical_drink::car::us:
-- Single and waiting for my frog prince to unbind my spell
+- Likes: :microphone::dancer::swimmer::nail_care::musical_keyboard::cat::dog::sunny::snowflake::panda_face::dolphin::cherry_blossom::computer::bowling::surfer::video_game::gem::guitar::lipstick::high_heel::dress::purse::tropical_drink::car:
+- Single and waiting for my frog prince to unbind my spell :frog::couple_with_heart:. But I don't mind taking it slow. What has my github profile turned to lol
 
 > "Design is not just what it looks like and feels like. Design is how it works" - Steve Jobs
 
