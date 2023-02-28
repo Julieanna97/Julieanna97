@@ -7,7 +7,7 @@
 - 📫 How to reach me kisamae1997@gmail.com
 - :star: Programming languages I'm familiar with: C, C++, C#, Python, Java
 - Likes: :microphone::dancer::swimmer::nail_care::musical_keyboard::cat::dog::sunny::snowflake::panda_face::dolphin::cherry_blossom::computer::bowling::surfer::video_game::gem::guitar::lipstick::high_heel::dress::purse::tropical_drink::car:
-- Single and waiting for my frog prince to unbind my spell :frog::couple_with_heart:. I want someone who wants kids and marriage. Someone who won't run away. Someone who will stay with me. Someone who's in love and attracted to me. Someone who lights up the room and the only one I notice when someone enters. Someone who's loyal, full of passion, drive and love to give. Someone who loves me for me.
+- Single and waiting for my frog prince to unbind my spell :frog::couple_with_heart:. I want someone who wants kids and marriage. Someone who won't run away. Someone who will stay with me. Someone who's in love and attracted to me. Someone who lights up the room and the only one I notice when someone enters. Someone who's loyal, full of passion, drive and love to give. Someone who loves me for me. I'm picky as hell, mind you. If I choose you, that means you were the only one that caught my eye. Haha so dramatic of me ok bye~
 
 > "Design is not just what it looks like and feels like. Design is how it works" - Steve Jobs
 
