@@ -9,7 +9,8 @@
 
 > "Design is not just what it looks like and feels like. Design is how it works" - Steve Jobs
 
-What I'm currently focusing on:
+What I'm currently _focusing_ __on__:
+
 Currently improving my coding skills: Datastructure, Linked lists, Queues, Stack, Hash table, IoT systems.
 
 <!-- Stats -->
