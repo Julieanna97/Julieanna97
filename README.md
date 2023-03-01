@@ -11,6 +11,8 @@
 
 > "We learn something from everyone who passes through our lives. Some lessons are painful. Some are painless. But, all are priceless"
 
+> "You came into my life. Just like another season. Not for long, just a time. Just like another season:cherry_blossom:"
+
 > "Design is not just what it looks like and feels like. Design is how it works" - Steve Jobs
 
 What I'm currently _focusing_ __on__:
