@@ -11,8 +11,6 @@
 
 > "We learn something from everyone who passes through our lives. Some lessons are painful. Some are painless. But, all are priceless"
 
-> "People are in your life for a reason, others are there for a season and it's important to realize when those seasons are over."
-
 > "Design is not just what it looks like and feels like. Design is how it works" - Steve Jobs
 
 What I'm currently _focusing_ __on__:
