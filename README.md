@@ -9,6 +9,10 @@
 - Likes: :microphone::dancer::swimmer::nail_care::musical_keyboard::cat::dog::sunny::snowflake::panda_face::dolphin::cherry_blossom::computer::bowling::surfer::video_game::gem::guitar::lipstick::high_heel::dress::purse::tropical_drink::car:
 - Single and waiting for my frog prince :frog::couple_with_heart:
 
+> "We learn something from everyone who passes through our lives. Some lessons are painful. Some are painless. But, all are priceless"
+
+> "People are in your life for a reason, others are there for a season and it's important to realize when those seasons are over."
+
 > "Design is not just what it looks like and feels like. Design is how it works" - Steve Jobs
 
 What I'm currently _focusing_ __on__:
