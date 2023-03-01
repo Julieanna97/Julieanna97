@@ -9,8 +9,6 @@
 - Likes: :microphone::dancer::swimmer::nail_care::musical_keyboard::cat::dog::sunny::snowflake::panda_face::dolphin::cherry_blossom::computer::bowling::surfer::video_game::gem::guitar::lipstick::high_heel::dress::purse::tropical_drink::car:
 - Zodiac sign: Scorpio :scorpius:
 
-> "Rejection and betrayal seem to hit a Scorpio harder than others, and they are unlikely to forgive or forget."
-
 > "Design is not just what it looks like and feels like. Design is how it works" - Steve Jobs
 
 
