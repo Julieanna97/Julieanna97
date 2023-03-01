@@ -7,7 +7,6 @@
 - 📫 How to reach me kisamae1997@gmail.com
 - :star: Programming languages I'm familiar with: C, C++, C#, Python, Java
 - Likes: :microphone::dancer::swimmer::nail_care::musical_keyboard::cat::dog::sunny::snowflake::panda_face::dolphin::cherry_blossom::computer::bowling::surfer::video_game::gem::guitar::lipstick::high_heel::dress::purse::tropical_drink::car:
-- Waiting for my frog prince :frog::couple_with_heart:
 
 
 > "We learn something from everyone who passes through our lives. Some lessons are painful. Some are painless. But, all are priceless"
