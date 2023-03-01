@@ -8,11 +8,6 @@
 - :star: Programming languages I'm familiar with: C, C++, C#, Python, Java
 - Likes: :microphone::dancer::swimmer::nail_care::musical_keyboard::cat::dog::sunny::snowflake::panda_face::dolphin::cherry_blossom::computer::bowling::surfer::video_game::gem::guitar::lipstick::high_heel::dress::purse::tropical_drink::car:
 
-
-> "We learn something from everyone who passes through our lives. Some lessons are painful. Some are painless. But, all are priceless"
-
-> "You came into my life. Just like another season. Not for long, just a time. Just like another season. But I’ll cherish our memories forever. :cherry_blossom:"
-
 > "Design is not just what it looks like and feels like. Design is how it works" - Steve Jobs
 
 
