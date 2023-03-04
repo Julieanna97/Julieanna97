@@ -6,7 +6,7 @@
 - 💞️ I’m looking to work in Lund by September 2023 with software developers
 - 📫 How to reach me kisamae1997@gmail.com
 - :star: Programming languages I'm familiar with: C, C++, C#, Python, Java
-- Likes: :microphone::dancer::swimmer::nail_care::musical_keyboard::cat::dog::sunny::snowflake::panda_face::dolphin::cherry_blossom::computer::bowling::surfer::video_game::gem::guitar::lipstick::high_heel::dress::purse::tropical_drink::car:
+- Likes: :microphone::dancer::swimmer::nail_care::musical_keyboard::cat::dog::sunny::snowflake::panda_face::dolphin::cherry_blossom::computer::bowling::surfer::video_game::gem::guitar::lipstick::high_heel::dress::purse::tropical_drink::car::house_with_garden::japanese_castle::bridge_at_night::ferris_wheel::doughnut::banana::fries::pizza::fishing_pole_and_fish::snowboarder::penguin::hamster:
 - Zodiac sign: Scorpio :scorpius:
 
 > "When you forgive, you heal. And when you let go, you grow."
