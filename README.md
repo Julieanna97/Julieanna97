@@ -9,6 +9,7 @@
 - Likes: :microphone::dancer::swimmer::nail_care::musical_keyboard::cat::dog::sunny::snowflake::panda_face::dolphin::cherry_blossom::computer::bowling::surfer::video_game::gem::guitar::lipstick::high_heel::dress::purse::tropical_drink::car::house_with_garden::japanese_castle::bridge_at_night::ferris_wheel::doughnut::banana::fries::pizza::fishing_pole_and_fish::snowboarder::penguin::hamster:
 - Zodiac sign: Scorpio :scorpius:
 
+> "Believe in _divine timing_ and know that __what's for you__ will not pass."
 > "Design is not just what it looks like and feels like. Design is how it works" - Steve Jobs
 
 
