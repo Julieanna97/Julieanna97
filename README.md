@@ -10,6 +10,7 @@
 - Zodiac sign: Scorpio :scorpius:
 
 > "Believe in _divine timing_ and know that __what's for you__ will not pass."
+> 
 > "Design is not just what it looks like and feels like. Design is how it works" - Steve Jobs
 
 
