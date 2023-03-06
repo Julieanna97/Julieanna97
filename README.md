@@ -1,4 +1,4 @@
-![image](https://e7.pngegg.com/pngimages/640/606/png-clipart-pixel-art-animation-animation-text-cartoon-thumbnail.png)
+![image](https://thumbs.gfycat.com/DefiniteSpeedyFawn-max-1mb.gif)
 
 - :v: Hello! I’m Julie Anne :purple_heart::cherry_blossom: You may call me Julie/Julia
 - 👀 I’m interested in Software Program
