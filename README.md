@@ -9,8 +9,8 @@
 - :cherry_blossom: I’m looking to work in Lund by September 2023 with software developers
 - :cherry_blossom: How to reach me kisamae1997@gmail.com
 - :cherry_blossom: Programming languages I'm familiar with: C, C++, C#, Python, Java
-- Likes: :microphone::dancer::swimmer::nail_care::musical_keyboard::cat::dog::sunny::snowflake::panda_face::dolphin::cherry_blossom::computer::bowling::surfer::video_game::gem::guitar::lipstick::high_heel::dress::purse::tropical_drink::car::house_with_garden::japanese_castle::bridge_at_night::ferris_wheel::doughnut::banana::fries::pizza::fishing_pole_and_fish::snowboarder::penguin::hamster:
-- Zodiac sign: Scorpio :scorpius:
+- :cherry_blossom: Likes: :microphone::dancer::swimmer::nail_care::musical_keyboard::cat::dog::sunny::snowflake::panda_face::dolphin::cherry_blossom::computer::bowling::surfer::video_game::gem::guitar::lipstick::high_heel::dress::purse::tropical_drink::car::house_with_garden::japanese_castle::bridge_at_night::ferris_wheel::doughnut::banana::fries::pizza::fishing_pole_and_fish::snowboarder::penguin::hamster:
+- :cherry_blossom: Zodiac sign: Scorpio :scorpius:
 
 > "Believe in _divine timing_ and know that __what's for you__ will not pass."
 > 
