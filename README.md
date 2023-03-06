@@ -1,7 +1,7 @@
 ![image](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8dc548c4-6367-4daf-9228-a0513f166047/d9ybbun-0dacc568-6479-4df5-8ca0-f44df2d1c5e2.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhkYzU0OGM0LTYzNjctNGRhZi05MjI4LWEwNTEzZjE2NjA0N1wvZDl5YmJ1bi0wZGFjYzU2OC02NDc5LTRkZjUtOGNhMC1mNDRkZjJkMWM1ZTIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.5MBjOllwdO9LXMBzQV-qkf7WRjyxJCS1IXxMzspCYao)
 ![image](https://thumbs.gfycat.com/DefiniteSpeedyFawn-max-1mb.gif)
 
-- :heartpulse: Hello! I’m Julie Anne :purple_heart::cherry_blossom: You may call me Julie/Julia
+- :heartpulse: @@Hello! I’m Julie Anne :purple_heart::cherry_blossom: You may call me Julie/Julia@@
 - :cherry_blossom: I’m interested in Software Program
 - :cherry_blossom: I’m currently learning Software Developer
 - :cherry_blossom: I’m looking to work in Lund by September 2023 with software developers
