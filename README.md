@@ -1,4 +1,4 @@
-![image]([https://www.clipartmax.com/png/middle/213-2139337_transparent-gif-kawaii-pixel-bow-transparent.png](https://i.pinimg.com/474x/ac/be/fb/acbefbd309c13f2f94d91c45612a160a.jpg])
+![image](https://e7.pngegg.com/pngimages/640/606/png-clipart-pixel-art-animation-animation-text-cartoon-thumbnail.png)
 
 - :v: Hello! I’m Julie Anne :purple_heart::cherry_blossom: You may call me Julie/Julia
 - 👀 I’m interested in Software Program
