@@ -3,7 +3,7 @@
 
 - :heartpulse: Hello! I’m Julie Anne :purple_heart::cherry_blossom: You may call me Julie/Julia
 - 👀 I’m interested in Software Program
-- 🌱 I’m currently learning Software Developer
+- :cherry_blossom: I’m currently learning Software Developer
 - 💞️ I’m looking to work in Lund by September 2023 with software developers
 - 📫 How to reach me kisamae1997@gmail.com
 - :star: Programming languages I'm familiar with: C, C++, C#, Python, Java
