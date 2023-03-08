@@ -9,7 +9,7 @@
 - :cherry_blossom: I’m looking to work in Lund by September 2023 with software developers
 - :cherry_blossom: How to reach me kisamae1997@gmail.com
 - :cherry_blossom: Programming languages I'm familiar with: C, C++, C#, Python, Java
-- :cherry_blossom: [HackerRank](https://www.hackerrank.com/kisamae1997?hr_r=1)
+- :cherry_blossom: Coding journey here [HackerRank](https://www.hackerrank.com/kisamae1997?hr_r=1)
 - :cherry_blossom: Likes: :microphone::dancer::swimmer::nail_care::musical_keyboard::cat::dog::sunny::snowflake::panda_face::dolphin::cherry_blossom::computer::bowling::surfer::video_game::gem::guitar::lipstick::high_heel::dress::purse::tropical_drink::car::house_with_garden::japanese_castle::bridge_at_night::ferris_wheel::doughnut::banana::fries::pizza::fishing_pole_and_fish::snowboarder::penguin::hamster:
 - :cherry_blossom: Zodiac sign: Scorpio :scorpius:
 
