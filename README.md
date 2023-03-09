@@ -31,4 +31,5 @@ I'm always trying to grow and learn something new. I lose track of time when I'm
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Julieanna97&theme=midnight-purple)](https://git.io/streak-stats)
 
 I'm your typical islandic Filipina gurl living in Sweden :cherry_blossom::ribbon:
-
+(
+![image](https://animesher.com/orig/1/107/1078/10783/animesher.com_kawaii-gif-pixel-1078398.gif)
