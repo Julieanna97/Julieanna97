@@ -20,7 +20,7 @@
 
 What I'm currently _focusing_ __on__:
 
-Currently improving my coding skills: Datastructure, Linked lists, Queues, Stack, Hash table, IoT systems.
+Currently improving my coding skills: Datastructure, Linked lists, Queues, Stack, Hash table.
 
 Currently working on: Vocal voice. I might make cover videos soon, but I'm shy.
 
